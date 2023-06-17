@@ -1,0 +1,17 @@
+Package: fraping
+Type: Package
+Title: Package for FRAP Data Analysis and Interpretation
+Version: 0.2.0
+Authors@R: 
+    person("Medina Ruiz A. I.", email="artitzco@proton.me", role = c("aut", "cre"))
+Maintainer: artitzco <artitzco@proton.me>
+Description: The FRAP Analysis Package is designed to handle and interpret data acquired through the Fluorescence Recovery After Photobleaching (FRAP) technique. It provides a set of main functions to facilitate the analysis and interpretation of FRAP data, including:
+  1. Standardization and visualization >The package enables the standardization and plotting of fluorescence data obtained from FRAP experiments, allowing users to gain insights into the dynamics of fluorophore recovery.
+  2. Parametric model fitting >It offers tools to fit parametric models to the fluorescence recovery curve, aiding in the identification of the most suitable model that describes the recovery kinetics after photobleaching.
+  3. Statistical comparison >The package includes statistical tests to compare fluorescence recovery curves between two different datasets, providing a means to assess significant differences in recovery kinetics.
+  4. Simulation methods >Users can utilize simulation methods within the package to increase the effective sample size of their data, enabling more robust statistical analyses and enhancing the accuracy of their conclusions.
+Imports: R6
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
