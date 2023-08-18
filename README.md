@@ -52,7 +52,7 @@ Contributions to the FRAP Analysis Package are welcome. If you encounter any iss
 - **Maintainer**: artitzco <[artitzco@proton.me](https://artitzco.github.io/util/contact.html)>
 - **License**: GPL-3
 
-This package is released under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
+This package is released under the GNU General Public License v3.0.
 
 Enjoy analyzing your FRAP data with ease using the FRAP Analysis Package!
 
