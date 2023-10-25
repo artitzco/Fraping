@@ -39,7 +39,7 @@ To get started, you can use the `downloadData` function to download a demo datas
 fraping::downloadData()
 ```
 
-For more detailed instructions and examples, please refer to the [User Manual](https://artitzco.github.io/proyects/fraping/frapingmanual-en.html) (English version) or [Manual de Usuario](https://artitzco.github.io/proyects/fraping/frapingmanual-es.html) (versión en español).
+For more detailed instructions and examples, please refer to the [User Manual](https://artitzco.github.io/projects/fraping/frapingmanual-en.html) (English version) or [Manual de Usuario](https://artitzco.github.io/projects/fraping/frapingmanual-es.html) (versión en español).
 
 ## Contributing
 
