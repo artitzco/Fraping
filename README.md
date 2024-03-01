@@ -47,7 +47,7 @@ Contributions to the FRAP Analysis Package are welcome. If you encounter any iss
 
 ## Associated Article
 
-This project is associated with an article published in the [Microscopy Research & Technique](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jemt.24533)
+This project is associated with an article published in the [Microscopy Research & Technique](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jemt.24533).
 
 
 ## Package Information
