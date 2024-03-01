@@ -45,6 +45,11 @@ For more detailed instructions and examples, please refer to the [User Manual](h
 
 Contributions to the FRAP Analysis Package are welcome. If you encounter any issues or have suggestions for improvements, please submit them in the [Issues](https://github.com/artitzco/fraping/issues) section.
 
+## Associated Article
+
+This project is associated with an article published in the [Microscopy Research & Technique](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jemt.24533)
+
+
 ## Package Information
 
 - **Package Version**: 0.2.0
